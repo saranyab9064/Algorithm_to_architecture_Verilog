@@ -3,7 +3,7 @@
 // Company: Algorithms to architecture(Assignment 2) 
 // Engineer: saranya006@e.ntu.edu.sg
 // 
-// Create Date:    18:56:46 01/05/2017 
+// Create Date:    18:56:46 01/05/2015
 // Design Name:    MD5 Hashing Algorithm
 // Module Name:    Md5Hash 
 // Project Name:   Md5Hashing
